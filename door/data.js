@@ -32,7 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "林本源園邸(林家花園)",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
